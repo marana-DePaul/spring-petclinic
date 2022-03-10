@@ -2,7 +2,7 @@ Michael Arana 1254076
 
 # DOCKER
 - [5 pts] Your dockerfile. Please provide a link to this file rather than a screen capture.  
-[link_to_dockerfile](spring-petclinic/blob/master/Dockerfile)  
+[link_to_dockerfile](https://github.com/marana-DePaul/spring-petclinic/blob/master/Dockerfile)  
 - [5 pts] Your running docker instance as shown by a ps command.
 ![docker ps_command](figures/docker_DOCKER_PS.png)  
 - [5 pts] Your browser accessing the main page of the website from your local container.
