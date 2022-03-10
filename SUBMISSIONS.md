@@ -22,10 +22,10 @@ container that has been updated to use MySQL.
 - [5 pts] Your updated docker-compose.yml file containing the application server, built from
 your local Dockerfile, and the existing MySQL configuration. Please provide a link
 to this file rather than a screen capture.  
-[link_to_docker-compose.yml](spring-petclinic/blob/master/docker-compose.yml)  
+[link_to_docker-compose.yml](https://github.com/marana-DePaul/spring-petclinic/blob/master/docker-compose.yml)  
 - [5 pts] Your updated application-mysql.properties file containing the URL change for
 the database server. Please provide a link to this file rather than a screen capture.  
-[link_to_application-mysql.properties](spring-petclinic/blob/master/src/main/resources/application-mysql.properties)  
+[link_to_application-mysql.properties](https://github.com/marana-DePaul/spring-petclinic/blob/master/src/main/resources/application-mysql.properties)  
 - [5 pts] The output from the docker-compose up command.
 ![docker compose up result 01](figures/docker_appServer_mysql_COMPOSE_UP_01.png)  
 ![docker compose up result 02](figures/docker_appServer_mysql_COMPOSE_UP_02.png)  
